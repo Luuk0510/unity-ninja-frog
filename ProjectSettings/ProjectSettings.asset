@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 20672af06e391a74b8f28fa7ae9af4dc
+  productGUID: 82b1a60c5a6636d4eb2e87b713c6d539
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -585,7 +585,7 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
-  webGLCompressionFormat: 0
+  webGLCompressionFormat: 2
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -704,10 +704,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: bdad4551-4139-4be3-a59e-a3688766b0e2
+  cloudProjectId: afe36eca-7fd2-4c5b-89d7-9a8a0f02067c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SchoolProject
+  projectName: SchoolProject 2024-02-15_16-50-20
   organizationId: avansluuk
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

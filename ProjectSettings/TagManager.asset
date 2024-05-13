@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cherry
+  - Trap
+  - Enemy
+  - Jump Platform
+  - Level1
+  - Level2
+  - Level3
+  - Terrain
+  - DoubleJump
+  - MovingPlatform
+  - Wall
+  - Fruit
+  - WallJump
+  - Bullet
+  - PauseMenu
   layers:
   - Default
   - TransparentFX
@@ -11,7 +26,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -38,6 +53,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 723995633
+    locked: 0
+  - name: SemiBackground
+    uniqueID: 774418221
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 432857445
     locked: 0
