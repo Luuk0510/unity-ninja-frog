@@ -26,6 +26,7 @@ Level Design: Niet-lineaire levels die veelvuldige paden en strategieën bieden 
     
 ## Screenshots van de game
 ![afbeelding](https://github.com/Luuk0510/UnityNinjaFrog/assets/54103279/7b14d9dd-da63-47e9-a705-1ae955ef7d7f)
+![afbeelding](https://github.com/Luuk0510/UnityNinjaFrog/assets/54103279/d02523e1-1dc3-48d1-be9e-76592189605b)
 ![afbeelding](https://github.com/Luuk0510/UnityNinjaFrog/assets/54103279/8c6427d8-9ea3-43c3-b70f-29fb4e149036)
 ![afbeelding](https://github.com/Luuk0510/UnityNinjaFrog/assets/54103279/1628bc8b-c7f4-41ba-9de6-8bb7b0487c41)
 ![afbeelding](https://github.com/Luuk0510/UnityNinjaFrog/assets/54103279/1a876985-55c5-4ed9-9a1e-04190a9e22d0)
